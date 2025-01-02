@@ -1,3 +1,8 @@
+#include<iostream>
+#indlude<queue>
+
+using namespace std;
+
 class RecentCounter {
     private :
     queue<int> q;
